@@ -1,4 +1,5 @@
 # Embedded_System
+<br>시연 영상
 <br>lab01: https://www.youtube.com/playlist?list=PL-5T2NJbk-DzkwAE_-JK9n1w9aLP4YOZg
 <br>lab02: https://www.youtube.com/playlist?list=PL-5T2NJbk-Dz_HYOVLdo5KyBmMiEETBK9
 <br>lab03: https://www.youtube.com/playlist?list=PL-5T2NJbk-Dw9bOhgeJ95Pg8tW1nZRmnS
