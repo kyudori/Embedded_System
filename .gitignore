@@ -1,0 +1,4 @@
+.hg/
+* text=auto
+.gitattributes
+Project/mbed-os/
